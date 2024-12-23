@@ -1,1 +1,1 @@
-# AnsibleHardeningPlaybooks
+# AnsibleSOHardeningPlaybooks
